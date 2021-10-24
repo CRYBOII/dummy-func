@@ -1,6 +1,6 @@
 ## Golang Dummy functions Generator 🔑
 
-Generate some random names function. for some kind of  obfuscation reasons
+Generate functions with random name. for some kind of  obfuscation reasons
 
 **Tool Installation**
 
