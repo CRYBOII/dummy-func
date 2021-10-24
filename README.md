@@ -5,7 +5,7 @@ Generate some random names function. for some kind of  obfuscation reasons
 **Tool Installation**
 
 ```
-go install https://github.com/CRYBOII/dummy-func
+go install github.com/CRYBOII/dummy-func
 ```
 
 
