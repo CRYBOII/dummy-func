@@ -1,4 +1,4 @@
-## Golang Dummy functions Generate 🔑
+## Golang Dummy functions Generator 🔑
 
 Generate some random names function. for some kind of  obfuscation reasons
 
